@@ -1,0 +1,10 @@
+num_1 = int(input("enterfirst number:"))
+num_2 = int(input("enter secound number:"))
+num_3 = int(input("enter third number:"))
+
+print("addition :",num_1 + num_2)
+print("subtraction :",num_1 - num_2)
+print("multiplication :",num_1 * num_2)
+print("division :",num_1 / num_2)
+print("remainder :",num_1 % num_2)
+print("power :",num_1 ** num_2)
